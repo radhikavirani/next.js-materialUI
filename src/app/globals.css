@@ -1,0 +1,200 @@
+/* space-grotesk-100 (Thin) - latin */
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: 100;
+  src: url("./../assets/fonts/Gilroy-Thin.eot");
+  src: url("./../assets/fonts/Gilroy-Thin.eot") format("embedded-opentype"),
+       url("./../assets/fonts/Gilroy-Thin.woff") format("woff"), 
+       url("./../assets/fonts/Gilroy-Thin.ttf") format("truetype");
+}
+
+/* space-grotesk-200 (Ultra / Extra light) - latin */
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: 200;
+  src: url("./../assets/fonts/Gilroy-UltraLight.eot");
+  src: url("./../assets/fonts/Gilroy-UltraLight.eot") format("embedded-opentype"),
+       url("./../assets/fonts/Gilroy-UltraLight.woff") format("woff"), 
+       url("./../assets/fonts/Gilroy-UltraLight.ttf") format("truetype");
+}
+
+/* space-grotesk-300 (light) - latin */
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: 300;
+  src: url("./../assets/fonts/Gilroy-Light.eot");
+  src: url("./../assets/fonts/Gilroy-Light.eot") format("embedded-opentype"),
+       url("./../assets/fonts/Gilroy-Light.woff") format("woff"), 
+       url("./../assets/fonts/Gilroy-Light.ttf") format("truetype");
+}
+
+/* space-grotesk-400 (regular) - latin */
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: 400;
+  src: url("./../assets/fonts/Gilroy-Regular.eot");
+  src: url("./../assets/fonts/Gilroy-Regular.eot") format("embedded-opentype"),
+       url("./../assets/fonts/Gilroy-Medium.woff") format("woff"), 
+       url("./../assets/fonts/Gilroy-Regular.ttf") format("truetype");
+}
+
+/* space-grotesk-500 (mediam) - latin */
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: 500;
+  src: url("./../assets/fonts/Gilroy-Medium.eot");
+  src: url("./../assets/fonts/Gilroy-Medium.eot") format("embedded-opentype"),
+       url("./../assets/fonts/Gilroy-Medium.woff") format("woff"), 
+       url("./../assets/fonts/Gilroy-Medium.ttf") format("truetype");
+}
+
+/* space-grotesk-600 (semi-bold) - latin */
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: 600;
+  src: url("./../assets/fonts/Gilroy-SemiBold.eot");
+  src: url("./../assets/fonts/Gilroy-SemiBold.eot") format("embedded-opentype"),
+       url("./../assets/fonts/Gilroy-SemiBold.woff") format("woff"), 
+       url("./../assets/fonts/Gilroy-SemiBold.ttf") format("truetype");
+}
+
+/* space-grotesk-700 (bold) - latin */
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: 700;
+  src: url("./../assets/fonts/Gilroy-Bold.eot");
+  src: url("./../assets/fonts/Gilroy-Bold.eot") format("embedded-opentype"),
+       url("./../assets/fonts/Gilroy-Bold.woff") format("woff"), 
+       url("./../assets/fonts/Gilroy-Bold.ttf") format("truetype");
+}
+
+/* space-grotesk-800 (Extra bold) - latin */
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: 800;
+  src: url("./../assets/fonts/Gilroy-ExtraBold.eot");
+  src: url("./../assets/fonts/Gilroy-ExtraBold.eot") format("embedded-opentype"),
+       url("./../assets/fonts/Gilroy-ExtraBold.woff") format("woff"), 
+       url("./../assets/fonts/Gilroy-ExtraBold.ttf") format("truetype");
+}
+
+/* space-grotesk-900 (black) - latin */
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: 900;
+  src: url("./../assets/fonts/Gilroy-Black.eot");
+  src: url("./../assets/fonts/Gilroy-Black.eot") format("embedded-opentype"),
+       url("./../assets/fonts/Gilroy-Black.woff") format("woff"), 
+       url("./../assets/fonts/Gilroy-Black.ttf") format("truetype");
+}
+
+/* btn font  */
+@font-face {
+  font-family: 'zeitung, sans-serif';
+  font-weight: 700;
+  src: url("./../assets/fonts/ZeitungMonoPro-Bold.eot");
+  src: url("./../assets/fonts/ZeitungMonoPro-Bold.eot") format("embedded-opentype"),
+       url("./../assets/fonts/ZeitungMonoPro-Bold.woff") format("woff"), 
+       url("./../assets/fonts/ZeitungMonoPro-Bold\ \(2\).ttf") format("truetype");
+}
+font-face {
+  font-family: 'zeitung, sans-serif';
+  font-weight: 600;
+  src: url("./../assets/fonts/ZeitungMonoPro-SemiBold.eot");
+  src: url("./../assets/fonts/ZeitungMonoPro-SemiBold.eot") format("embedded-opentype"),
+       url("./../assets/fonts/ZeitungMonoPro-SemiBold\ \(1\).woff") format("woff"), 
+       url("./../assets/fonts/ZeitungMonoPro-SemiBold.ttf") format("truetype");
+}
+
+.Gilroy_100{
+  font-family: 'Gilroy';
+  font-weight: 100;
+}
+.Gilroy_200{
+  font-family: 'Gilroy';
+  font-weight: 200;
+}
+.Gilroy_300{
+  font-family: 'Gilroy';
+  font-weight: 300;
+}
+.Gilroy_400{
+  font-family: 'Gilroy';
+  font-weight: 400;
+}
+.Gilroy_500{
+  font-family: 'Gilroy';
+  font-weight: 500;
+}
+.Gilroy_600{
+  font-family: 'Gilroy';
+  font-weight: 600;
+}
+.Gilroy_700{
+  font-family: 'Gilroy';
+  font-weight: 700;
+}
+.Gilroy_800{
+  font-family: 'Gilroy';
+  font-weight: 800;
+}
+.Gilroy_900{
+  font-family: 'Gilroy';
+  font-weight: 900;
+}
+.zeitung_700{
+  font-family: 'zeitung, sans-serif';
+  font-weight: 700;
+}
+.zeitung_600{
+  font-family: 'zeitung, sans-serif';
+  font-weight: 600;
+}
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.page-bg {
+  background: linear-gradient(180deg, rgba(239, 241, 246, 1) 35%, rgba(252, 252, 254, 1) 100%);
+  overflow: hidden;
+}
+.main-flex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flex{
+  display: flex;
+}
+.cursor{
+  cursor: pointer;
+}
+.btn-border{
+  border-radius: 50px;
+  border: 1px solid #0F051833;
+}
+.position-a{
+  position: absolute;
+}
+.position-r{
+  position: relative;
+}
+.text-align{
+  text-align: center;
+}
+
+.run-tx{
+  font-size: 48px;
+  line-height: 67px;
+  text-align: center;
+}
+.detail-tx{
+  font-size: 22px;
+  line-height: 31px;
+  color: #00000080;
+  text-align: center;
+}
+.grey{
+  color: #ababab;
+}
